@@ -29,6 +29,7 @@
 **Testing:**  
 `Jest` | `Cypress` | `Selenium`  
 
+<!--- 
 ---
 
 ## 📈 GitHub Stats
@@ -37,7 +38,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
-<!---
+
 ## 📌 Featured Projects
 - 🔹 [Project 1](#) – A full-stack web application using React + Node.js
 - 🔹 [Project 2](#) – Scalable Vue 3 SPA with Pinia & TailwindCSS
