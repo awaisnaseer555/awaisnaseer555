@@ -9,8 +9,8 @@
 - 🧑‍💼 Full-Stack Developer with **5+ years of professional experience**
 - 🎯 Specialized in **Frontend Development** using **React.js**, **Vue.js**, **TypeScript**, and **TailwindCSS**
 - ⚙️ Skilled in building & automating **CI/CD pipelines** (GitHub Actions, GitLab CI, Jenkins)
-- 🌐 Backend exposure with **Node.js**, **Express**, **MongoDB**, and **Django**
-- ☁️ Experience deploying on **AWS**, **Vercel**, and **Netlify**
+- 🌐 Backend exposure with **Node.js**, **Express**, **MongoDB**, and **NestJS**
+- ☁️ Experience deploying on **Vercel**, and **Netlify**
 - 🛠 Passionate about **clean code**, **scalable architectures**, and **performance optimization**
 
 ---
@@ -21,10 +21,10 @@
 `React.js` | `Vue.js` | `Next.js` | `TailwindCSS` | `TypeScript` | `JavaScript` | `Pinia` | `VUEX` | `Redux` | `SSR`  
 
 **Backend:**  
-`Node.js` | `Express.js` | `Nest.js` | `MongoDB` | `Django` | `REST APIs` | `GraphQL`  
+`Node.js` | `Express.js` | `Nest.js` | `MongoDB` | `REST APIs` | `GraphQL`  
 
 **DevOps & Tools:**  
-`Git & GitHub` | `GitLab` | `CI/CD Pipelines` | `Docker` | `AWS Lambda` | `Vercel` | `Netlify`  
+`Git & GitHub` | `GitLab` | `CI/CD Pipelines` | `Docker` | `Vercel` | `Netlify`  
 
 **Testing:**  
 `Jest` | `Cypress` | `Selenium`  
