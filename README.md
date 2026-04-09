@@ -49,7 +49,7 @@
 
 ## 📫 Connect with Me
 <!--- - 🌐 Portfolio: [your-portfolio.com](#) --->
-- 💼 LinkedIn: [linkedin.com/in/mohammad-awais-naseer-1b3504171](https://www.linkedin.com/in/mohammad-awais-naseer-1b3504171/)
+- 💼 LinkedIn: [linkedin.com/in/awaisnaseer555/](https://www.linkedin.com/in/awaisnaseer555/)
 - ✉️ Email: awaisnaseer555@gmail.com
 
 ---
